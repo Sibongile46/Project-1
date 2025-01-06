@@ -25,5 +25,8 @@ This project analyzes Airbnb listings in Seattle, WA, to uncover trends and insi
 - **Neighborhood Amenities**: Popular amenities include Wireless Internet, Smoke Detectors, and Essentials. Listings vary by neighborhood.
 - **Trends in Reviews**: A steady increase in reviews over time indicates growing Airbnb activity in Seattle.
 
+## Blog Post
+- The findings of this analysis were published in a blog post on Medium
+- [https://medium.com/@sibongilemanyate99/exploring-seattle-through-airbnb-trends-and-insights-for-travelers-and-hosts-34d3e2657ce7]
 ## Acknowledgments
 Data used in this project is sourced from [Inside Airbnb](https://www.kaggle.com/datasets/airbnb/seattle/data ).
